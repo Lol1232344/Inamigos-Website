@@ -14,7 +14,7 @@ The webpage highlights:
 * Gallery section
 * Volunteer & donation call-to-action
 
----
+
 
 ## 🚀 Features
 
@@ -25,7 +25,7 @@ The webpage highlights:
 * Gallery with hover effects
 * Clean UI using HTML & CSS
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -34,7 +34,7 @@ The webpage highlights:
 * Google Fonts
 * Font Awesome Icons
 
----
+
 
 ## 📌 NGO Projects Included
 
@@ -45,27 +45,7 @@ The webpage highlights:
 * Project Prakriti
 * Project Vikas
 
----
 
-## 📷 Screenshots
-
-(Add your screenshots here after uploading them)
-
-Example:
-
-![Homepage Screenshot](screenshot1.png)
-
----
-
-## 🔗 Live Website
-
-(Add your GitHub Pages link here)
-
-Example:
-
-https://yourusername.github.io/inamigos-awareness-webpage/
-
----
 
 ## 📚 Research References
 
@@ -78,7 +58,6 @@ https://www.instagram.com/inamigos/
 LinkedIn:
 https://in.linkedin.com/company/inamigos-foundation
 
----
 
 ## 👨‍💻 Developed By
 
